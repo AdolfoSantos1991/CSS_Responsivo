@@ -18,15 +18,6 @@ Este projeto demonstra princípios básicos de design responsivo, incluindo:
 - **HTML5**  
 - **CSS3**
 
-## 📂 Estrutura do Projeto
-
-CSS_Responsivo/  
-│── index.html  
-│── css/  
-│   └── estilo.css  
-│── assets/  
-│   └── (arquivos utilizados no layout responsivo)
-
 ## 🎨 Recursos do Projeto
 
 - Layout ajustável para diferentes resoluções  

@@ -1,51 +1,39 @@
-📱 CSS Responsivo
+# CSS Responsivo
 
-Um projeto simples criado para praticar técnicas de responsividade em CSS, explorando layouts que se adaptam a diferentes tamanhos de tela. O foco é entender como aplicar media queries, organizar elementos e garantir que a interface permaneça funcional em dispositivos variados.
+Projeto simples desenvolvido para praticar técnicas de responsividade em **CSS3**, explorando layouts que se adaptam a diferentes tamanhos de tela. O foco é entender consultas de mídia, organização de elementos e manutenção da funcionalidade em dispositivos variados.
 
-📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este projeto demonstra princípios básicos de design responsivo, incluindo:
 
-Ajustes visuais conforme a largura da tela
-
-Estruturação de elementos flexíveis
-
-Testes de comportamentos entre desktop e mobile
-
-Aplicação de boas práticas de CSS limpo e organizado
+- Ajustes visuais conforme a largura da tela  
+- Estruturas flexíveis e adaptáveis  
+- Testes de comportamento entre desktop e mobile  
+- Aplicação de boas práticas de CSS limpo e organizado  
 
 É ideal para estudos, experimentação e portfólio de iniciantes em front-end.
 
-🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas
 
-HTML5
+- **HTML5**  
+- **CSS3**
 
-CSS3
+## 📂 Estrutura do Projeto
 
-📂 Estrutura do Projeto
-CSS_Responsivo/
-│── index.html
-│── css/
-│     └── estilo.css
-│── assets/
-│     └── (arquivos utilizados no layout responsivo)
+CSS_Responsivo/  
+│── index.html  
+│── css/  
+│   └── estilo.css  
+│── assets/  
+│   └── (arquivos utilizados no layout responsivo)
 
-🎨 Recursos do Projeto
+## 🎨 Recursos do Projeto
 
-Layout ajustável em diferentes resoluções
+- Layout ajustável para diferentes resoluções  
+- Conteúdo organizado com técnicas modernas de CSS  
+- Base simples, fácil de expandir ou personalizar  
 
-Conteúdo organizado usando técnicas modernas de CSS
+## 🚀 Como Executar
 
-Base simples, fácil de expandir ou personalizar
+Abra o arquivo:
 
-🚀 Como Executar
-
-Baixe o projeto
-
-Abra o arquivo index.html em qualquer navegador
-
-Redimensione a janela para visualizar o comportamento responsivo
-
-📄 Licença
-
-Este projeto é de uso livre para estudos e portfólio.

@@ -32,8 +32,3 @@ CSS_Responsivo/
 - Layout ajustável para diferentes resoluções  
 - Conteúdo organizado com técnicas modernas de CSS  
 - Base simples, fácil de expandir ou personalizar  
-
-## 🚀 Como Executar
-
-Abra o arquivo:
-
